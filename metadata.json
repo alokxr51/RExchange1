@@ -1,0 +1,6 @@
+{
+  "name": "RExchange - Student Marketplace",
+  "description": "A trusted private college exchange platform for students to sell, trade, share, and give away textbooks, electronics, notes, event tickets, and services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
